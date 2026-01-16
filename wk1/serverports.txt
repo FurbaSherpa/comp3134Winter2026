@@ -1,0 +1,7 @@
+1: is an communication endpoint that allows the system to direct the network to a specific service or application
+
+2:server port range is ports from 0-65535 divided into 3 categories
+
+3:16 bits
+
+4: 8080, 8001, 8888, 80, 20, 443, 21, 22, 23, 53
