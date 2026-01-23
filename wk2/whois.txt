@@ -1,0 +1,290 @@
+1:google.com
+
+Domain:
+google.com
+Registered On:
+1997-09-15
+Expires On:
+2028-09-14
+Updated On:
+2019-09-09
+Status:
+client delete prohibited
+client transfer prohibited
+client update prohibited
+server delete prohibited
+server transfer prohibited
+server update prohibited
+Name Servers:
+ns1.google.com
+ns2.google.com
+ns3.google.com
+ns4.google.com
+Registrar Information
+Registrar:
+MarkMonitor Inc.
+IANA ID:
+292
+Email:
+https://www.markmonitor.com/contact-us/
+Abuse Email:
+abusecomplaints@markmonitor.com
+Abuse Phone:
++1.2086851750
+Registrant Contact
+Organization:
+Google LLC
+Country:
+US
+Email:
+https://domains.markmonitor.com/whois/contact/google.com
+Technical Contact
+Email:
+https://domains.markmonitor.com/whois/contact/google.com
+
+
+
+
+2:facebook.com
+
+Domain:
+facebook.com
+Registered On:
+1997-03-29
+Expires On:
+2034-03-30
+Updated On:
+2025-04-23
+Status:
+client delete prohibited
+client transfer prohibited
+client update prohibited
+server delete prohibited
+server transfer prohibited
+server update prohibited
+Name Servers:
+a.ns.facebook.com
+b.ns.facebook.com
+c.ns.facebook.com
+d.ns.facebook.com
+Registrar Information
+Registrar:
+RegistrarSafe, LLC
+IANA ID:
+3237
+Abuse Email:
+abusecomplaints@registrarsafe.com
+Abuse Phone:
++1-650-308-7004
+
+
+
+3:georgebrown.ca
+
+Domain:
+georgebrown.ca
+Registered On:
+2002-07-04
+Expires On:
+2026-07-04
+Updated On:
+2026-01-15
+Status:
+client transfer prohibited
+Name Servers:
+ns1.d-zone.ca
+ns1.georgebrown.ca
+ns2.d-zone.ca
+ns2.georgebrown.ca
+Registrar Information
+Registrar:
+Webnames.ca Inc.
+IANA ID:
+456
+URL:
+webnames.ca
+Abuse Email:
+abuse@webnames.ca
+Abuse Phone:
++1.8662217878
+Registrant Contact
+Name:
+Shahin Javanshiri
+Organization:
+George Brown College
+Street:
+P.O. Box 1015 Station B
+City:
+Toronto
+State:
+ON
+Postal Code:
+M5T2T9
+Country:
+CA
+Phone:
++1.4164155000
+Email:
+email@georgebrown.ca
+Administrative Contact
+Name:
+Shahin Javanshiri
+Organization:
+George Brown College
+Street:
+P.O. Box 1015 Station B
+City:
+Toronto
+State:
+ON
+Postal Code:
+M5T2T9
+Country:
+CA
+Phone:
++1.4164155000
+Email:
+email@georgebrown.ca
+Technical Contact
+Name:
+Dorin Grunberg
+Organization:
+George Brown College
+Street:
+P.O. Box 1015 Station B
+City:
+Toronto
+State:
+ON
+Postal Code:
+M5T2T9
+Country:
+CA
+Phone:
++1.4164155000
+Email:
+email@georgebrown.ca
+
+
+
+4:cp24.com
+
+Domain:
+cp24.com
+Registered On:
+1997-11-15
+Expires On:
+2027-11-14
+Updated On:
+2025-09-03
+Status:
+client delete prohibited
+client transfer prohibited
+client update prohibited
+Name Servers:
+pdns1.ultradns.net
+pdns2.ultradns.net
+pdns3.ultradns.org
+pdns4.ultradns.org
+pdns5.ultradns.info
+pdns6.ultradns.co.uk
+Registrar Information
+Registrar:
+MarkMonitor Inc.
+IANA ID:
+292
+Email:
+https://www.markmonitor.com/contact-us/
+Abuse Email:
+abusecomplaints@markmonitor.com
+Abuse Phone:
++1.2086851750
+Registrant Contact
+Organization:
+Bell Media Inc.
+Country:
+CA
+Email:
+https://domains.markmonitor.com/whois/contact/cp24.com
+Technical Contact
+Email:
+https://domains.markmonitor.com/whois/contact/cp24.com
+
+
+
+5:whois.com
+
+Domain:
+whois.com
+Registered On:
+1995-04-11
+Expires On:
+2028-04-12
+Updated On:
+2020-07-31
+Status:
+client transfer prohibited
+Name Servers:
+anastasia.ns.cloudflare.com
+roman.ns.cloudflare.com
+Registrar Information
+Registrar:
+PDR Ltd. d/b/a PublicDomainRegistry.com
+IANA ID:
+303
+Abuse Email:
+abuse-contact@publicdomainregistry.com
+Abuse Phone:
++1.2013775952
+Registrant Contact
+Name:
+Domain Administrator
+Street:
+33 Ubi Avenue 3, #07-32 Vertex
+City:
+Singapore
+State:
+Not Applicable
+Postal Code:
+408868
+Country:
+SG
+Phone:
++65.31507504
+Email:
+email@whois.com
+Administrative Contact
+Name:
+Domain Administrator
+Street:
+33 Ubi Avenue 3, #07-32 Vertex
+City:
+Singapore
+State:
+Not Applicable
+Postal Code:
+408868
+Country:
+SG
+Phone:
++65.31507504
+Email:
+email@whois.com
+Technical Contact
+Name:
+Domain Administrator
+Street:
+33 Ubi Avenue 3, #07-32 Vertex
+City:
+Singapore
+State:
+Not Applicable
+Postal Code:
+408868
+Country:
+SG
+Phone:
++65.31507504
+Email:
+email@whois.com
+

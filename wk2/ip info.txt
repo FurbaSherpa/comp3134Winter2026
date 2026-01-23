@@ -1,0 +1,22 @@
+1:Amazon.com
+	IP Address: 98.82.161.185
+	location: Ashburn, Virginia, United States
+	
+
+2:Paypal.com
+	IP Address: 151.101.195.1
+	location: San Francisco, California, United States
+	
+	
+3:Aircanada.ca
+	IP Address: 23.220.114.186
+	location: Amsterdam, Noord-Holland, Netherlands
+	
+	
+4:Bestbuy.ca
+	IP Address: 2.16.106.217
+	location: Amsterdam, Noord-Holland, Netherlands
+	
+5:Stackoverflow.com
+	IP Address: 198.252.206.1
+	location: New York, New York, United States

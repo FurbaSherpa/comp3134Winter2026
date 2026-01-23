@@ -1,0 +1,18 @@
+C:\Users\nepal>tracert 146.190.255.240
+
+Tracing route to 146.190.255.240 over a maximum of 30 hops
+
+  1     4 ms     3 ms     4 ms  10.0.64.1
+  2    11 ms    11 ms     8 ms  10.1.4.6
+  3     *        *        *     Request timed out.
+  4     *        *        *     Request timed out.
+  5     *        *        *     Request timed out.
+  6     *        *        *     Request timed out.
+  7     *        *        *     Request timed out.
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12   285 ms    41 ms    45 ms  146.190.255.240
+
+Trace complete.

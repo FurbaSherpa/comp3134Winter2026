@@ -1,0 +1,29 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ping 142.250.179.174
+PING 142.250.179.174 (142.250.179.174) 56(84) bytes of data.
+64 bytes from 142.250.179.174: icmp_seq=1 ttl=113 time=90.6 ms
+64 bytes from 142.250.179.174: icmp_seq=2 ttl=113 time=89.7 ms
+64 bytes from 142.250.179.174: icmp_seq=3 ttl=113 time=89.6 ms
+64 bytes from 142.250.179.174: icmp_seq=4 ttl=113 time=89.7 ms
+64 bytes from 142.250.179.174: icmp_seq=5 ttl=113 time=89.7 ms
+64 bytes from 142.250.179.174: icmp_seq=6 ttl=113 time=89.6 ms
+64 bytes from 142.250.179.174: icmp_seq=7 ttl=113 time=89.7 ms
+64 bytes from 142.250.179.174: icmp_seq=8 ttl=113 time=89.7 ms
+64 bytes from 142.250.179.174: icmp_seq=9 ttl=113 time=89.7 ms
+64 bytes from 142.250.179.174: icmp_seq=10 ttl=113 time=90.0 ms
+64 bytes from 142.250.179.174: icmp_seq=11 ttl=113 time=89.7 ms
+64 bytes from 142.250.179.174: icmp_seq=12 ttl=113 time=89.7 ms
+64 bytes from 142.250.179.174: icmp_seq=13 ttl=113 time=89.7 ms
+64 bytes from 142.250.179.174: icmp_seq=14 ttl=113 time=89.7 ms
+64 bytes from 142.250.179.174: icmp_seq=15 ttl=113 time=89.7 ms
+64 bytes from 142.250.179.174: icmp_seq=16 ttl=113 time=89.7 ms
+64 bytes from 142.250.179.174: icmp_seq=17 ttl=113 time=89.6 ms
+64 bytes from 142.250.179.174: icmp_seq=18 ttl=113 time=89.7 ms
+64 bytes from 142.250.179.174: icmp_seq=19 ttl=113 time=89.7 ms
+64 bytes from 142.250.179.174: icmp_seq=20 ttl=113 time=89.6 ms
+64 bytes from 142.250.179.174: icmp_seq=21 ttl=113 time=89.7 ms
+64 bytes from 142.250.179.174: icmp_seq=22 ttl=113 time=89.7 ms
+64 bytes from 142.250.179.174: icmp_seq=23 ttl=113 time=89.7 ms
+^C
+--- 142.250.179.174 ping statistics ---
+23 packets transmitted, 23 received, 0% packet loss, time 22019ms
+rtt min/avg/max/mdev = 89.641/89.729/90.599/0.198 ms

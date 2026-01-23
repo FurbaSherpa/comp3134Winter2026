@@ -1,0 +1,9 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ping 142.250.179.174 -w 3
+PING 142.250.179.174 (142.250.179.174) 56(84) bytes of data.
+64 bytes from 142.250.179.174: icmp_seq=1 ttl=113 time=91.0 ms
+64 bytes from 142.250.179.174: icmp_seq=2 ttl=113 time=89.7 ms
+64 bytes from 142.250.179.174: icmp_seq=3 ttl=113 time=89.7 ms
+
+--- 142.250.179.174 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 89.662/90.122/90.988/0.612 ms
