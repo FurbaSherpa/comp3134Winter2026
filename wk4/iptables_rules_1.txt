@@ -1,0 +1,11 @@
+Chain INPUT (policy ACCEPT 245 packets, 18345 bytes)
+ pkts bytes target     prot opt in     out     source               destination
+  120  9600 ACCEPT     all  --  lo     any     anywhere             anywhere
+   45  3600 ACCEPT     tcp  --  eth0   any     anywhere             anywhere             tcp dpt:ssh
+   10   800 DROP       all  --  any    any     192.168.1.100        anywhere
+
+Chain FORWARD (policy DROP 0 packets, 0 bytes)
+ pkts bytes target     prot opt in     out     source               destination
+
+Chain OUTPUT (policy ACCEPT 210 packets, 15700 bytes)
+ pkts bytes target     prot opt in     out     source               destination
