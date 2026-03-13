@@ -1,0 +1,1 @@
+sudo tcpdump -i any -s 0 -w all_traffic_$(date +%Y%m%d_%H%M).pcap
