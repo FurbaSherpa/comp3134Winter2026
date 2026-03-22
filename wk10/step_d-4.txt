@@ -1,0 +1,4 @@
+1: I am able to see the entire path from the root
+
+2: It gives away the folder structure and specific folder names giving 
+	away sensitive information

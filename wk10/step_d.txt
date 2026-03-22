@@ -1,0 +1,8 @@
+1: The issue is that the directory does not exist
+
+
+2: -The warning shows the full directory path exposing the structure.
+
+	- The error also exposes the function used and the specific life in the 
+	code that is giving the error.
+	

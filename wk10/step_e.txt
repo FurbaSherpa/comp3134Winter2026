@@ -1,0 +1,3 @@
+- Use file_exists to give an error message if the directory dosent exists
+
+- make /html the base page (default page)
