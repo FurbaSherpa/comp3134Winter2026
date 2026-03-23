@@ -1,0 +1,8 @@
+1: I am not directed to another page that is about the word. also the URL changed
+	to dictionary.com/browser/break
+	
+2: The URL basically says my word "khobro" is a misspelling and that dobro might be
+	the word I might be looking for and as redirected me to the page for the 
+	word "dobro"
+	
+3: I am now shown an alert saying "Sorry, you have been blocked"

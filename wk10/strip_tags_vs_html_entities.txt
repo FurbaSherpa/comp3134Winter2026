@@ -1,0 +1,2 @@
+Strip tags removes anything that looks like a PHP or HTML tag while
+HTML entities converts special characters into harmless equivalent
